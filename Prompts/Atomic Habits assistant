@@ -1,0 +1,114 @@
+# The Atomic Behavior Framework
+### A reusable model for diagnosing and changing habits — yours or other people's — based on *Atomic Habits* by James Clear
+
+---
+
+## 0. Purpose
+
+This framework exists to take a real situation — a recurring behavior someone does (or you do) that affects you — and run it through the same mental model James Clear uses in *Atomic Habits*: the **habit loop**, and the **Four Laws of Behavior Change**.
+
+It is meant to be used by an agent (or by you) like this:
+
+1. You describe a situation: what happened, who was involved, what they did, how it affected you, and ideally how often it happens. Images/screenshots/messages can supplement this.
+2. The agent classifies the behavior as a **habit to break** (someone else's bad habit affecting you, or your own) or a **habit to build** (a good habit you or someone else needs more of).
+3. The agent reconstructs the **Cue → Craving → Response → Reward** loop driving that behavior — this is the diagnostic core, and it must be detailed and specific, not generic.
+4. The agent applies the relevant **Four Laws**, in the correct direction (build vs. break), to produce a concrete action plan.
+
+---
+
+## 1. The Core Loop: Cue → Craving → Response → Reward
+
+Every habit, good or bad, runs on this four-step loop. Skipping or guessing at a step is the most common reason habit-change plans fail, so each one should be filled in explicitly and concretely — not with abstractions like "they're lazy" or "they don't respect me," but with the actual mechanical trigger and payoff.
+
+| Stage | What it is | Diagnostic question |
+|---|---|---|
+| **Cue** | The piece of information that triggers the brain to start a behavior. It signals a reward is available. | What specifically (time, place, emotional state, preceding action, other people, or object) immediately precedes the behavior? |
+| **Craving** | The motivational force behind the habit — not the habit itself, but the change in state the person wants. Cravings are for the *change* the reward produces, not the reward itself. | What underlying desire is this behavior actually serving (relief from discomfort, status, connection, control, certainty, pleasure, avoidance of pain)? |
+| **Response** | The actual habit performed — the thought or action taken. | What, precisely, does the person do? (Be literal — "raises voice," "goes silent," "checks phone," "cancels last minute," "interrupts," etc.) |
+| **Reward** | The end goal of every habit. Rewards satisfy the craving and teach the brain which actions are worth remembering for the future. | What does the person get out of doing this — immediately — that reinforces doing it again? |
+
+**Key principle from the book:** habits are the brain's way of solving a problem with the least amount of energy. The behavior that's annoying or hurtful to you is, from the other person's nervous system's point of view, *working*. It is solving something for them. The framework's job is to find what it's solving, because that's the only lever that actually changes it.
+
+---
+
+## 2. Classification Step
+
+Before applying the laws, classify the situation:
+
+- **Type A — Someone else's bad habit affecting me.** You can't directly rewire their loop, but you can change the cues and friction *in the environment you share with them*, and decide your own response to protect yourself.
+- **Type B — My own bad habit.** Full access to all four laws, inverted, applied to yourself.
+- **Type C — A good habit (mine or someone else's) I want to reinforce or help build.** Apply the four laws normally (not inverted).
+
+This matters because Type A has a constraint the book doesn't usually address head-on: you often can't control someone else's cue, craving, or reward directly — only your own environment, boundaries, and reactions, which indirectly reshape their loop over time (e.g., removing the reward you were unknowingly providing).
+
+---
+
+## 3. The Four Laws of Behavior Change
+
+The same four laws apply to every stage of the loop. To **build** a habit, you make each law true. To **break** a habit, you invert it.
+
+| Stage | Law to Build a Good Habit | Inversion to Break a Bad Habit |
+|---|---|---|
+| Cue | **Make it obvious** | **Make it invisible** |
+| Craving | **Make it attractive** | **Make it unattractive** |
+| Response | **Make it easy** | **Make it difficult** |
+| Reward | **Make it satisfying** | **Make it unsatisfying** |
+
+### 3.1 Make It Obvious / Invisible (Cue)
+- *To build:* Use implementation intentions ("I will [behavior] at [time] in [location]"), habit stacking ("After [current habit], I will [new habit]"), and design the environment so the cue is visually unavoidable.
+- *To break:* Reduce exposure to the cues that trigger the bad habit. Remove the object, change the environment, avoid the time/place/people that reliably precede it, or restructure the situation so the cue doesn't reach the person (or you) in the first place.
+
+### 3.2 Make It Attractive / Unattractive (Craving)
+- *To build:* Bundle the habit with something already wanted (temptation bundling), or join/surround with a culture where the desired behavior is the norm.
+- *To break:* Reframe the craving — highlight the real cost/downside of the behavior, and deliberately associate it with the negative outcomes it produces rather than the relief it gives.
+
+### 3.3 Make It Easy / Difficult (Response)
+- *To build:* Reduce friction — fewer steps, less effort, prepare the environment in advance. Use the Two-Minute Rule (scale the habit down to something that takes two minutes or less to start).
+- *To break:* Increase friction — add steps, distance, time, or cost between the trigger and the action. A commitment device (something that locks in good behavior and restricts bad behavior in advance) is especially effective for Type A and Type B situations.
+
+### 3.4 Make It Satisfying / Unsatisfying (Reward)
+- *To build:* Add immediate reinforcement — even something small — right after the behavior, since the brain prioritizes immediate rewards over delayed ones. Track it (a habit tracker provides visual proof of progress, which is itself satisfying).
+- *To break:* Make the consequences immediate and visible. An accountability partner or a real, immediate cost for the behavior counteracts the fact that bad habits usually give an immediate reward and only a delayed cost.
+
+---
+
+## 4. Output Template
+
+For every situation submitted, the response should follow this structure:
+
+**1. Situation Summary**
+Restate the scenario in 2-3 sentences, neutrally.
+
+**2. Classification**
+Type A / B / C, and why.
+
+**3. The Habit Loop (detailed)**
+- Cue:
+- Craving (the real underlying desire):
+- Response:
+- Reward:
+
+**4. Why This Loop Persists**
+A short explanation of what's reinforcing it — i.e., why, from the loop's internal logic, this is the path of least resistance for the person involved.
+
+**5. The Four Laws Applied**
+For each of the four laws, give 1-3 concrete, specific actions — not generic advice. These should reference the actual cue/craving/response/reward identified in step 3, not abstract restatements of the law.
+
+**6. If Type A (someone else's habit affecting you) — Your Boundary Layer**
+Since you can't rewire their loop directly, specify:
+- What part of the cue, friction, or reward *you* currently control or unknowingly provide (e.g., are you the reward — do you respond, give attention, give in — when the behavior happens?)
+- What you can change in the shared environment
+- What boundary or consequence you can put in place that makes the behavior less rewarding *for them*, on your end
+
+**7. Smallest First Step**
+One single, concrete action that can be taken immediately (today), to start the change — true to the book's emphasis on small, atomic changes rather than overhauls.
+
+---
+
+## 5. Notes for the Agent
+
+- Always ground the loop in specifics from what the user describes. If a detail is missing (e.g., the cue isn't clear), ask for it rather than inventing it.
+- Never moralize or diagnose the other person's character — the framework explains *mechanics*, not pathology. This keeps it usable and non-inflammatory when the user shares sensitive interpersonal situations.
+- If images are provided (texts, messages, photos of a space, etc.), treat them as evidence for identifying the cue or response stage — e.g., a messy shared space is a cue; a text timestamp pattern reveals a craving trigger.
+- Distinguish "habit" from "one-time event." If the behavior described isn't recurring, note that the framework applies best to repeated patterns, and ask if this is part of a pattern.
+- Keep advice atomic: small, specific, testable changes — not abstract life overhauls. That fidelity to the book's core philosophy is the point of this whole framework.
