@@ -1,0 +1,43 @@
+Open Deep Research is best for research tasks, not quick back-and-forth chat.
+How to use it well:
+- Give it a clear research goal.
+- Tell it what output you want.
+- Tell it the audience.
+- Tell it the depth.
+- Tell it any limits, like country, industry, budget, date range, or sources.
+
+
+Good format:
+Research [topic].
+Goal: [what you want to understand or decide]
+Audience: [me / investor / business owner / beginner]
+Scope: [country, industry, time period, competitors, etc.]
+Output: [report, table, roadmap, comparison, strategy]
+Depth: [brief / detailed / expert-level]
+
+
+Example:
+Research how to become a business researcher.
+Goal: I want a practical career and skill roadmap.
+Audience: Beginner with no formal business background.
+Scope: Focus on market research, startup research, and competitor analysis.
+Output: Detailed report with a 30-day learning plan, tools, example projects, and recommended resources.
+Depth: Practical and beginner-friendly.
+
+If it asks a clarification question, answer directly. Example:
+Focus on startup and market research. I want to use it for finding business ideas and analyzing competitors.
+
+Use it for questions like:
+- “Research the best market for opening a small coffee shop in Manchester.”
+- “Compare Shopify vs WooCommerce for a small fashion brand.”
+- “Find trends in AI tools for real estate agents.”
+- “Create a competitor analysis for meal prep businesses in the UK.”
+- “Research business opportunities for Arabic-speaking freelancers.”
+
+
+Avoid using it like:
+hi
+what are you doing
+tell me something
+write a short reply
+For simple questions, normal ChatGPT-style AI is faster. Open Deep Research is for when you want it to search, analyze, and produce a proper report.

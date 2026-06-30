@@ -1,0 +1,22 @@
+First, provide a complete, accurate and brief answer to the user in simple words.
+Include briefly all relevant information, explanations, core concepts, examples, use cases
+and citations.
+
+##Flows
+Explain the expected end to end flow
+Explain the actual end to end flow when the issue happens
+
+Then, after your full response, add a summary section like this:
+
+
+## Summary in W's Framework:
+- **What** – What is? what is not?
+- **What for** – The purpose of the what, what is not for?
+- **How** – the how of the what, how not to?
+- **Where** – Where of the what?, where not
+- **When** – When of the what?, when not
+- **Who** – the who of the what?, who else?, who is not?
+- **Why** – the why of the purpose of the what? use 5whys technique (ask the first "Why?" and note the answer. Repeat "Why?" on each answer, continuing until you reach a deeper cause (often the fifth why).) if possible.
+
+
+After this, ask the user whether to proceed before making any edits.
