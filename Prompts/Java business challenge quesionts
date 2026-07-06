@@ -1,0 +1,2 @@
+"Imagine you need to design an application that can only use Java collections—no databases, no external storage, no additional frameworks—just in-memory collections like Lists, Maps, and Sets. The goal is to create a service that a business could monetize. What kind of service or application would you build under these constraints?"
+
